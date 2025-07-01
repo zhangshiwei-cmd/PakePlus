@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyhouse"]=self["webpackChunkmyhouse"]||[]).push([[500],{7500:function(n,e,u){u.r(e),u.d(e,{default:function(){return i}});var c=u(337);const r={class:"collection_min"};function s(n,e){return(0,c.uX)(),(0,c.CE)("div",r,"我的收藏")}var t=u(6838);const o={},a=(0,t.A)(o,[["render",s]]);var i=a}}]);
+//# sourceMappingURL=500.8ad1a8df.js.map
